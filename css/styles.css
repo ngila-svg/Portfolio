@@ -42,3 +42,55 @@ h1{
     font-size: 50px;
     font-family: 'Carter One', cursive;
 }
+.flex{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+  
+}
+.about{
+    box-shadow: 5px 5px 10px gray;
+    width: 300px;
+    padding: 10px;
+}
+.card{
+    box-shadow: 5px 5px 10px gray;
+    
+}
+.about:hover{
+    transform: scale(1.1);
+}
+
+.list-skills{
+    display:flex;
+    flex-flow: row;
+    justify-content: space-around;
+}
+#skills{
+    margin-top: 20px;
+}
+.project{
+    display:flex;
+    flex-flow: row;
+    justify-content: space-around;
+}
+#project{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.active {
+    background-color: #4CAF50;
+}
+.icon-bar {
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.icon-bar a {
+    display: block;
+    text-align: center;#555;
+    overflow: auto;
+    
+}
