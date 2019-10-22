@@ -57,6 +57,9 @@ h1{
     box-shadow: 5px 5px 10px gray;
     
 }
+.card-body ul li{
+    list-style: lower-roman;
+}
 .about:hover{
     transform: scale(1.1);
 }
@@ -81,6 +84,7 @@ h1{
 .active {
     background-color: #4CAF50;
 }
+/* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen)*/
 .icon-bar {
     position: absolute;
     top: 50%;
@@ -88,6 +92,7 @@ h1{
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
+/* Style the icon bar links */
 .icon-bar a {
     display: block;
     text-align: center;#555;
