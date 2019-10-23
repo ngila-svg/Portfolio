@@ -1,7 +1,7 @@
 :satisfied:
 # Portfolio
 #### My portfolio to sell me to the job market ::
-#### By **Opiyo Titus**&trade;
+#### By **Wilfred Musyoka*&trade;
 
 ## Description
 This is basically a portfolio website containing all about me. It has different section namely name,about,skills, project and contact 
