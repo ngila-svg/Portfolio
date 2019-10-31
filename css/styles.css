@@ -71,6 +71,7 @@ h1{
 }
 #skills{
     margin-top: 20px;
+    color: darkorange;
 }
 .project{
     display:flex;
@@ -107,4 +108,7 @@ h1{
 }
 .experience{
     color: cornsilk;
+}
+#u{
+    color: ghostwhite;
 }
